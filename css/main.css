@@ -1,0 +1,9 @@
+@import url(app/libs/magnific-popup/dist/magnific-popup.css);
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: black;
+  height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
